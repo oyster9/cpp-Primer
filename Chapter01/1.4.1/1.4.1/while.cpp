@@ -2,17 +2,19 @@
 // 描述：用while语句求1到10这个数的和
 //====================================================
 #include<iostream>
+using namespace std;
 int main()
 {
-	int sum = 0, val = 1;
-	//if val <= 10, then while continue
+	int sum = 0;
+	int val = 1;
+
 	while(val <= 10)
 	{
-		sum += val;	//sum = sum + val
-		++val;	//val = val + 1
+		sum += val;
+		++val;
 	}
-
-	std::cout << "Sum of 1 to 10 inclusive is "
-		      << sum << std::endl;
+	cout << "The sum of 1 to 10 inlcusive is: "
+		 << sum << endl;
+	
 	return 0;
 }
