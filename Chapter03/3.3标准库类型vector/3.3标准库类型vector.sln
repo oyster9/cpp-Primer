@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.3标准库类型vector", "3.3标准库类型vector\3.3标准库类型vector.vcxproj", "{A16DA937-9E6D-4983-8583-5C7DEFB902B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16DA937-9E6D-4983-8583-5C7DEFB902B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A16DA937-9E6D-4983-8583-5C7DEFB902B8}.Debug|Win32.Build.0 = Debug|Win32
+		{A16DA937-9E6D-4983-8583-5C7DEFB902B8}.Release|Win32.ActiveCfg = Release|Win32
+		{A16DA937-9E6D-4983-8583-5C7DEFB902B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
